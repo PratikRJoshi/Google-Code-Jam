@@ -1,3 +1,5 @@
+package _2016.jam.code.google;
+
 import java.io.*;
 import java.lang.invoke.MethodHandles;
 import java.util.HashMap;
