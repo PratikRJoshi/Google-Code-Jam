@@ -1,4 +1,4 @@
-package _2016.jam.code.google;
+package _2016.qualification;
 
 import java.io.*;
 import java.lang.invoke.MethodHandles;
@@ -26,7 +26,7 @@ import java.util.Set;
  For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the last number that Bleatrix will name before falling asleep, according to the rules described in the statement.
 
  */
-public class GCodeJam16_Q1 {
+public class CountingSheep {
     public static int lastSheep(int n) {
         Map<Integer, Boolean> visitedNumbers = new HashMap<>();
         Set<Integer> set = new HashSet<>();

@@ -1,4 +1,4 @@
-package _2016.jam.code.google;
+package _2016.round1.A;
 
 import java.io.*;
 import java.lang.invoke.MethodHandles;
@@ -36,7 +36,7 @@ import java.lang.invoke.MethodHandles;
  * For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y
  * is the winning last word, as described in the statement.
  */
-public class GCodeJam16_1A1 {
+public class TheLastWord {
     public static String generateWinningString(String s) {
         if (s == null || s.length() == 0) {
             return "";

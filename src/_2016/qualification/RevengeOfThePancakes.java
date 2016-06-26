@@ -1,4 +1,4 @@
-package _2016.jam.code.google;
+package _2016.qualification;
 
 import java.io.*;
 
@@ -49,7 +49,7 @@ import java.io.*;
  *
  * Hint : http://www.luckypri.me/revenge-of-the-pancakes-google-codejam-2016/
  */
-public class GCodeJam16_Q2 {
+public class RevengeOfThePancakes {
     public static int numberOfFlips(String s) {
         if (s == null || s.length() == 0)
             return 0;
@@ -82,7 +82,3 @@ public class GCodeJam16_Q2 {
         bw.close();
     }
 }
-
-+
--
-+

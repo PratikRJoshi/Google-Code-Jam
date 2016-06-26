@@ -1,4 +1,4 @@
-package _2016.jam.code.google;
+package _2016.qualification;
 
 /**
  * A jamcoin is a string of N ≥ 2 digits with the following properties:
@@ -70,6 +70,6 @@ package _2016.jam.code.google;
 
  Hint: http://thecodersportal.com/coin-jam/
  */
-public class GCodeJam16_Q3 {
+public class CoinJam {
 
 }
