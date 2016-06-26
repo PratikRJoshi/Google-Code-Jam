@@ -68,7 +68,6 @@ public class RevengeOfThePancakes {
     public static void main(String[] args) throws IOException {
 
         File file = new File(args[0]);
-        System.out.println(file.getName());
         BufferedReader br = new BufferedReader(new FileReader(file));
         String resourcesDir = args[1];
         BufferedWriter bw = new BufferedWriter(new FileWriter(new File(resourcesDir + file.getName() + ".txt")));
