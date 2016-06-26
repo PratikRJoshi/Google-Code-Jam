@@ -45,6 +45,9 @@ import java.io.*;
  * <p>
  * 1 ≤ T ≤ 100.
  * Every character in S is either + or -.
+ *
+ *
+ * Hint : http://www.luckypri.me/revenge-of-the-pancakes-google-codejam-2016/
  */
 public class GCodeJam16_Q2 {
     public static int numberOfFlips(String s) {
@@ -79,3 +82,7 @@ public class GCodeJam16_Q2 {
         bw.close();
     }
 }
+
++
+-
++
